@@ -36,7 +36,7 @@ Released   : 20140225
                 </ul>
             </div>
         </div>
-        @yield('header')
+        @yield('head')
     </div>
 
     @yield('content')
